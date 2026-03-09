@@ -1,4 +1,4 @@
-package edu.lab.tdse.microframeworkweb.MicroSpringBoot;
+package edu.lab.tdse.microframeworkweb.ClassExamples;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

@@ -1,4 +1,4 @@
-package edu.lab.tdse.microframeworkweb.MicroSpringBoot;
+package edu.lab.tdse.microframeworkweb.ClassExamples;
 
 public class Foo {
     @Test
