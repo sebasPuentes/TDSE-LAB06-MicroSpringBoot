@@ -82,7 +82,13 @@ The project is organized:
 
 ## Amazon Deploy
 
-Pending
+Testing Routes in Amazon EC2 Instance:
+
+![Pending](docs/ec2.png)
+
+![alt text](docs/ece2Example.png)
+
+![alt text](docs/ec2Example2.png)
 
 ## Built With
 
